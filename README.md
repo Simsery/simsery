@@ -2,4 +2,4 @@
 
 Limnial Spaces
 
-Weirdcore
+Weirdcore/Dreamcore Editor
